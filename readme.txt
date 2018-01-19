@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-
-
 
 
 this master wirter
