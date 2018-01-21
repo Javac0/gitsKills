@@ -1,2 +1,37 @@
 *.txt
 a.jpg
+*.class
+
+#package filr
+
+*.war
+*.ear
+
+#kdiff3 ignorre
+*.orig
+
+#maven-ignore
+
+#eclipse ignore
+.settings/
+.classpath
+
+#idea
+.idea/
+/idea/
+*.ipr
+*.iml
+*.iws
+
+# temp file
+
+*.log
+*.cache
+*.patch
+*.tmp
+
+# system ignore
+.DS_Store
+Thumbs.db
+
+
